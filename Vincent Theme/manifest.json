@@ -1,0 +1,40 @@
+{
+  "name": "Vincent Theme",
+  "version": "1.0",
+  "description": "",
+  "manifest_version": 3,
+  "theme": {
+    "badges": {
+      "primaryColor": "171111"
+    },
+    "colors": {
+      "control_button_background": [4, 253, 55],
+      "theme_toolbar": [0, 0, 0],
+      "theme_tab_background": [0, 0, 255],
+      "frame": [0, 0, 0],
+      "toolbar": [45, 45, 45],
+      "toolbar_text": [4, 253, 55],
+      "toolbar_button_icon": [175, 47, 222],
+      "tab_text": [4, 253, 55],
+      "tab_background_text": [175, 47, 222],
+      "bookmark_text": [4, 253, 55],
+      "ntp_background": [0, 0, 0],
+      "ntp_text": [175, 47, 222],
+      "ntp_link": [175, 47, 222],
+      "ntp_header": [4, 253, 55],
+      "ntp_logo": [255, 0, 0],
+      "ntp_section": [175, 47, 222],
+      "button_background": [175, 47, 222, 0.5],
+      "omnibox_background": [0, 0, 0],
+      "omnibox_text": [175, 47, 222]
+    },
+
+    "tints": {
+      "buttons": [175, 47, 0.44]
+    },
+    "properties": {
+      "ntp_background_alignment": "bottom",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
